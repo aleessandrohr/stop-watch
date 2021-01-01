@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://img.shields.io/github/license/alessandrohenriqueramos/stop-watch?color=000" alt="license-mit"/>
+    <img src="https://img.shields.io/github/license/alessandrohenriqueramos/stop-watch?color=000000" alt="license-mit"/>
     <img src="https://img.shields.io/github/package-json/v/alessandrohenriqueramos/stop-watch?color=000" alt="version">
 </p>
 
