@@ -15,12 +15,12 @@ Para acessar a aplicação apenas clique [aqui]().
 
 Para o desenvolvimento desta aplicação foi utilizado as seguintes tecnologias:
 
-<img src="https://img.shields.io/badge/Visual Studio Code-1380B7" alt="Visual Studio Code"/>
-<img src="https://img.shields.io/badge/HTML5-FA580C" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-173FF2" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-ffc742" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-1C7FEA" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/ReactJS-4CDAFE" alt="ReactJS"/>
+* <img src="https://img.shields.io/badge/Visual Studio Code-1380B7" alt="Visual Studio Code"/>
+* <img src="https://img.shields.io/badge/HTML5-FA580C" alt="HTML5"/>
+* <img src="https://img.shields.io/badge/CSS3-173FF2" alt="CSS3"/>
+* <img src="https://img.shields.io/badge/JavaScript-ffc742" alt="JavaScript"/>
+* <img src="https://img.shields.io/badge/TypeScript-1C7FEA" alt="TypeScript"/>
+* <img src="https://img.shields.io/badge/ReactJS-4CDAFE" alt="ReactJS"/>
 
 ---
 
