@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: 'Roboto Mono', monospace;
+  background-image: linear-gradient(45deg , #ff8a00, #e52e71);
+  color: white;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.App-Nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.App-Nav a {
+  text-decoration: none;
+  color: white;
+}
+
+.App-NavLogo {
+  padding-left: 1rem;
+  font-size: 1.6rem;
+}
+
+.App-NavItems ul {
+  display: flex;
+  list-style: none;
+}
+
+.App-NavItems ul li a {
+  padding: 1rem;
+  font-size: 1.2rem;
+}
+
+.App-NavItems ul li a:hover {
+  text-decoration: underline;
+}
+
+.App section {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-Container {
+  width: 20rem;
+  height: 20rem;
+  background-image: linear-gradient(35deg, #f81b1b, #3939dd);
+  border-radius: 7px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.22);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.App-Container .buttons i {
+  margin: 4rem;
+  margin-top: -100px;
+  font-size: 1.8rem;
+  cursor: pointer;
+}
+
+.App-Container .stopwatch {
+  font-size: 1.6rem;
+}
+
+footer {
+  text-align: center;
+}
+
+footer p a {
+  text-decoration: none;
+  color: white;
+}
+
+footer p a:hover {
+  text-decoration: underline;
+}
+
+@media(max-width: 760px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+@media(max-width: 320px) {
+  html {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 280px) {
+  html {
+    font-size: 10px;
+  }
+}
