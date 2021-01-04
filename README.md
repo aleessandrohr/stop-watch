@@ -26,7 +26,10 @@ Para o desenvolvimento desta aplicação foi utilizado as seguintes tecnologias:
 
 ## Ajustes e melhorias
 
-A aplicação ainda está em desenvolvimento e portanto não teve ajustes e melhorias:
+A aplicação teve os seguintes ajustes e melhorias:
+
+* Adicionado design;
+* Adicionado contador;
 
 ---
 
