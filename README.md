@@ -7,8 +7,7 @@
 
 ## Acesse
 
-Para acessar a aplicação apenas clique [aqui](stopwatchbr.vercel.app
-).
+Para acessar a aplicação apenas clique [aqui](stopwatchbr.vercel.app).
 
 ---
 
