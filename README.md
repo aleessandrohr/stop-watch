@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://img.shields.io/github/license/alessandrohenriqueramos/stop-watch?color=000000" alt="license-mit"/>
-    <img src="https://img.shields.io/github/package-json/v/alessandrohenriqueramos/stop-watch?color=000" alt="version">
+    <img src="https://img.shields.io/github/license/alessandroramos13/stop-watch?color=000000" alt="license-mit"/>
+    <img src="https://img.shields.io/github/package-json/v/alessandroramos13/stop-watch?color=000" alt="version">
 </p>
 
 # Cronômetro
@@ -42,7 +42,7 @@ Com essas aplicações instaladas, abra o cmd ou o powershell (dependendo do sis
 ## Execute
 
 ```
-git clone https://github.com/alessandrohenriqueramos/stop-watch.git
+git clone https://github.com/alessandroramos13/stop-watch.git
 cd stop-watch
 ```
 
